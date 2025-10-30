@@ -1,0 +1,23 @@
+{
+  "name": "conecta-ds",
+  "version": "1.0.0",
+  "description": "Simulación de Red Social con motor de sugerencias inteligente",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node src/examples/testSuggestions.js"
+  },
+  "keywords": [
+    "social-network",
+    "data-structures",
+    "hash-table",
+    "priority-queue",
+    "graph"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
